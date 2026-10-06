@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
+
+# Project specific ignored folders
+Explanation/
+
+# Generated and test media files
+*.mp3
+*.wav
+*.mp4
+!sample-image.png
